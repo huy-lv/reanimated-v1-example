@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "reanimated-v1-example",
+    "name": "Reanimated v1 example",
     "slug": "reanimated-v1-example",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "privacy": "public",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -13,9 +14,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
