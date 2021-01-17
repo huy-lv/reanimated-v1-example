@@ -1,12 +1,12 @@
 # Reanimated v1 Example
 
-![alt text](https://raw.githubusercontent.com/huy-lv/reanimated-v1-example/master/github/demo-gif.gif "qr")
+![alt text](./github/demo-gif.gif "qr")
 
 ## Try now
 
 Scan this qr to open project with Expo
 
-![alt text](https://raw.githubusercontent.com/huy-lv/reanimated-v1-example/master/github/qr-expo.png =250x)
+![alt text](./github/qr-expo.png =250x)
 
 ## Run the project
 
