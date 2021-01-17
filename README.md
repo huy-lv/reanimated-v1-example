@@ -6,7 +6,7 @@
 
 Scan this qr to open project with Expo
 
-![alt text](https://raw.githubusercontent.com/huy-lv/reanimated-v1-example/master/github/qr-expo.png "qr")
+![alt text](https://raw.githubusercontent.com/huy-lv/reanimated-v1-example/master/github/qr-expo.png =250x)
 
 ## Run the project
 
