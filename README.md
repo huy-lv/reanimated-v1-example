@@ -6,7 +6,7 @@
 
 Scan this qr to open project with Expo
 
-![alt text](./github/qr-expo.png =250x)
+![alt text](./github/qr-expo.png)
 
 ## Run the project
 
