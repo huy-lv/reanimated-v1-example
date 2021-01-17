@@ -4,7 +4,7 @@
 
 ## Try now
 
-Scan this qr to open project with Expo
+Scan this qr to open project with [Expo](https://expo.io)
 
 ![alt text](./github/qr-expo.png)
 
